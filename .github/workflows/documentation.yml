@@ -15,4 +15,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.PAT }}
         BUILD_SCRIPT: npm i && npm run build
         BUILD_DIR: .vuepress/dist/
-        CNAME: https://viva-la-vita.org
+        CNAME: https://wiki.viva-la-vita.org
