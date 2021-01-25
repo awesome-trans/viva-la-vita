@@ -1,0 +1,14 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}

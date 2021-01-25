@@ -1,0 +1,39 @@
+title: 生如夏花
+description: Viva la Vita!
+themeConfig:
+  nav:
+  # - { text: 主页, link: https://viva-la-vita.org }
+  # - { text: 论坛, link: https://bbs.viva-la-vita.org }
+  - { text: 仓库, link: https://github.com/viva-la-vita/wiki }
+  sidebar:
+    - title: 关于
+      path: /
+    - title: 概述
+      path: /introduction/
+      collapsable: false
+      children:
+        - /introduction/reaction
+        - /introduction/nipple
+        - /introduction/possibility
+    - title: 乳首开发
+      path: /development/
+      collapsable: false
+      children:
+        - /development/risk
+        - /development/hand
+        - /development/acupuncture
+        - /development/compensation
+        - /development/acceleration
+        - /development/level
+    - title: 乳首自慰
+      path: /masturbation/
+      collapsable: false
+      children:
+        - /masturbation/preparation
+        - /masturbation/technique
+        - /masturbation/pleasure
+        - /masturbation/orgasm
+        - /masturbation/toy
+    - title: 附录
+      path: /appendix/
+      collapsable: false
