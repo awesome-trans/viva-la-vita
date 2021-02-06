@@ -37,3 +37,5 @@ themeConfig:
     - title: 附录
       path: /appendix/
       collapsable: false
+      children:
+        - /appendix/faq
