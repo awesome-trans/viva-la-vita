@@ -5,7 +5,8 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "vuepress": "^1.5.4"
+    "vuepress": "^1.5.4",
+    "vuepress-plugin-clean-urls": "^1.1.2"
   },
   "scripts": {
     "dev": "vuepress dev",

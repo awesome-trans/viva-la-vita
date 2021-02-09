@@ -39,3 +39,7 @@ themeConfig:
       collapsable: false
       children:
         - /appendix/faq
+plugins:
+  - - vuepress-plugin-clean-urls
+    - normalSuffix: ''
+      indexSuffix: '/'
