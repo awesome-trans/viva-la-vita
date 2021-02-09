@@ -41,5 +41,5 @@ themeConfig:
         - /appendix/faq
 plugins:
   - - vuepress-plugin-clean-urls
-    - normalSuffix: ''
+    - normalSuffix: '/'
       indexSuffix: '/'
